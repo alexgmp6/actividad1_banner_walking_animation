@@ -1,0 +1,1 @@
+actividad1_banner_walking_animation
